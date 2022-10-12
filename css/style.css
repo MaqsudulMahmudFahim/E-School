@@ -1,0 +1,53 @@
+body{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   color: #000000;
+   line-height: 30px;
+
+}
+
+/*header css start*/
+
+header{
+   padding: 10px 0;
+   background-color: #F0FFF0;
+}
+.c_nav{}
+.logo{
+   width: 195px;
+}
+.menu ul li a{
+ padding: 0 25px !important;
+ font-family: 'Poppins';
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 24px;
+ color: #000000 !important;
+}
+.menu ul li a:hover{
+   color: #FD511A !important;
+}
+
+.btn-common{
+   font-family: 'Roboto', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 19px;
+   color: #FFFFFF;
+   background-color: #21B573;
+   border-radius: 33px;
+}
+
+.btn-common:hover{
+   background-color: #FD511A;
+   color: #FFFFFF;
+}
+.btn-header{
+   padding: 10px 20px;
+   width: 104px;
+   height: 43px;
+}
+
+
+/*header css end*/
